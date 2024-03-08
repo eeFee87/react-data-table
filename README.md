@@ -1,4 +1,3 @@
 # React Data Table Component
 
-Ejemplo de uso de esta librería que nos simplifica la tarea de hacer tablas
-# react-data-table
+Ejemplo de uso de la librería **react-date-table-component** que nos simplifica la tarea de hacer tablas en React.
