@@ -28,7 +28,7 @@ export function Table() {
     const timeout = setTimeout(() => {
       setUsers(data);
       setLoading(false);
-    }, 1500);
+    }, 2000);
     return () => clearTimeout(timeout);
   }, [data]);
 
